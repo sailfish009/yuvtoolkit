@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/10/trunk/3rdparty/msc
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/3rdparty/msc/stdint.h
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/3rdparty/msc/inttypes.h
+END

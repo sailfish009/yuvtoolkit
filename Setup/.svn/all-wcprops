@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/197/trunk/Setup
+END
+new_build.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/166/trunk/Setup/new_build.py
+END
+filetype_register.reg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/146/trunk/Setup/filetype_register.reg
+END
+YUVToolkit.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/158/trunk/Setup/YUVToolkit.nsi
+END
+increment_build_number.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31/trunk/Setup/increment_build_number.py
+END
+VERSION_1
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/30/trunk/Setup/VERSION_1
+END
+VERSION_2
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/30/trunk/Setup/VERSION_2
+END
+VERSION_3
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/159/trunk/Setup/VERSION_3
+END
+VERSION_4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/189/trunk/Setup/VERSION_4
+END
+file_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/165/trunk/Setup/file_list.txt
+END

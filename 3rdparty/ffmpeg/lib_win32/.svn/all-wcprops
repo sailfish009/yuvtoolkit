@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/lib_win32
+END
+avdevice.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/lib_win32/avdevice.lib
+END
+avfilter.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/lib_win32/avfilter.lib
+END
+avformat.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/lib_win32/avformat.lib
+END
+swscale.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/lib_win32/swscale.lib
+END
+avutil.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/lib_win32/avutil.lib
+END
+avcodec.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/lib_win32/avcodec.lib
+END

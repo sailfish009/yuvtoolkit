@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/include/libavcodec
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/include/libavcodec/opt.h
+END
+dxva2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/include/libavcodec/dxva2.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/include/libavcodec/avcodec.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/include/libavcodec/version.h
+END
+avfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/include/libavcodec/avfft.h
+END
+xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/include/libavcodec/xvmc.h
+END
+vdpau.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/include/libavcodec/vdpau.h
+END
+vaapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/3rdparty/ffmpeg/include/libavcodec/vaapi.h
+END

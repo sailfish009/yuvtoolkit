@@ -1,0 +1,46 @@
+10
+
+dir
+198
+http://yuvtoolkit.googlecode.com/svn/trunk/3rdparty/ffmpeg/include
+http://yuvtoolkit.googlecode.com/svn
+
+
+
+2011-05-16T14:17:10.408447Z
+10
+yuheng.zhao@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fe7d2ec1-bd83-e687-9167-72ef5a783f6b
+
+libswscale
+dir
+
+libavcodec
+dir
+
+libavutil
+dir
+
+libavdevice
+dir
+
+libavfilter
+dir
+
+libavformat
+dir
+

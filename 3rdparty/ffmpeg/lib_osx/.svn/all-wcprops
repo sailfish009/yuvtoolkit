@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/3rdparty/ffmpeg/lib_osx
+END
+libavformat.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/3rdparty/ffmpeg/lib_osx/libavformat.dylib
+END
+libswscale.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/3rdparty/ffmpeg/lib_osx/libswscale.dylib
+END
+libavcodec.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/3rdparty/ffmpeg/lib_osx/libavcodec.dylib
+END
+libavutil.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/3rdparty/ffmpeg/lib_osx/libavutil.dylib
+END
+libavdevice.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/3rdparty/ffmpeg/lib_osx/libavdevice.dylib
+END
+libavfilter.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/3rdparty/ffmpeg/lib_osx/libavfilter.dylib
+END

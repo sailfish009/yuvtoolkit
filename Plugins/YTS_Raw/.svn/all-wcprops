@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/189/trunk/Plugins/YTS_Raw
+END
+YTS_Raw.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/134/trunk/Plugins/YTS_Raw/YTS_Raw.pro
+END
+RawFormatWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/189/trunk/Plugins/YTS_Raw/RawFormatWidget.cpp
+END
+YTS_Raw.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/Plugins/YTS_Raw/YTS_Raw.vcxproj.filters
+END
+YTS_Raw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/180/trunk/Plugins/YTS_Raw/YTS_Raw.cpp
+END
+RawFormatWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/Plugins/YTS_Raw/RawFormatWidget.h
+END
+YTS_Raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/177/trunk/Plugins/YTS_Raw/YTS_Raw.h
+END
+YTS_Raw.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/Plugins/YTS_Raw/YTS_Raw.vcxproj
+END
+RawFormatWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/71/trunk/Plugins/YTS_Raw/RawFormatWidget.ui
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/195/trunk/Plugins/YT_GLRenderer
+END
+YT_GLRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/Plugins/YT_GLRenderer/YT_GLRenderer.h
+END
+YT_GLRenderer.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/Plugins/YT_GLRenderer/YT_GLRenderer.vcxproj
+END
+YT_GLRenderer.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/28/trunk/Plugins/YT_GLRenderer/YT_GLRenderer.pro
+END
+YT_GLRenderer.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/47/trunk/Plugins/YT_GLRenderer/YT_GLRenderer.vcxproj.filters
+END
+YT_GLRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/195/trunk/Plugins/YT_GLRenderer/YT_GLRenderer.cpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/196/trunk/Plugins/YTR_D3D
+END
+D3DWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/Plugins/YTR_D3D/D3DWidget.h
+END
+YTR_D3D.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/147/trunk/Plugins/YTR_D3D/YTR_D3D.pro
+END
+YTR_D3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/195/trunk/Plugins/YTR_D3D/YTR_D3D.cpp
+END
+YTR_D3D.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/196/trunk/Plugins/YTR_D3D/YTR_D3D.vcxproj.filters
+END
+YTR_D3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/132/trunk/Plugins/YTR_D3D/YTR_D3D.h
+END
+D3DWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/Plugins/YTR_D3D/D3DWidget.cpp
+END
+YTR_D3D.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49/trunk/Plugins/YTR_D3D/YTR_D3D.vcxproj
+END

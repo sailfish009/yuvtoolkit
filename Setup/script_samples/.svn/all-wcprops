@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/196/trunk/Setup/script_samples
+END
+03-custom-time-stamp.yts
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/164/trunk/Setup/script_samples/03-custom-time-stamp.yts
+END
+01-compare-two-files.yts
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/164/trunk/Setup/script_samples/01-compare-two-files.yts
+END
+05-write-text-file.yts
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/164/trunk/Setup/script_samples/05-write-text-file.yts
+END
+02-open-multiple-files-and-close.yts
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/164/trunk/Setup/script_samples/02-open-multiple-files-and-close.yts
+END
+06-subjective-test-DSCQS.yts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/190/trunk/Setup/script_samples/06-subjective-test-DSCQS.yts
+END
+06-subjective-test-SSCQE.yts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/196/trunk/Setup/script_samples/06-subjective-test-SSCQE.yts
+END
+07-ui-control.yts
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/188/trunk/Setup/script_samples/07-ui-control.yts
+END
+09-2DList-shuffle.yts
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/192/trunk/Setup/script_samples/09-2DList-shuffle.yts
+END
+TextFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/164/trunk/Setup/script_samples/TextFile.txt
+END
+06-subjective-test-ss.yts
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/190/trunk/Setup/script_samples/06-subjective-test-ss.yts
+END
+06-subjective-test-paircomparison.yts
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/190/trunk/Setup/script_samples/06-subjective-test-paircomparison.yts
+END
+08-playback-control.yts
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/190/trunk/Setup/script_samples/08-playback-control.yts
+END
+06-subjective-test-paricomparisonSlider.yts
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/190/trunk/Setup/script_samples/06-subjective-test-paricomparisonSlider.yts
+END
+04-read-text-file.yts
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/164/trunk/Setup/script_samples/04-read-text-file.yts
+END
+06-subjective-test-samviq.yts
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/193/trunk/Setup/script_samples/06-subjective-test-samviq.yts
+END
+06-subjective-test-1.yts
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/164/trunk/Setup/script_samples/06-subjective-test-1.yts
+END

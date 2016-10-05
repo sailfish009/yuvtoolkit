@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/196/trunk/Plugins
+END
+circularfifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/Plugins/circularfifo.h
+END
+common.pri
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/137/trunk/Plugins/common.pri
+END
+YT_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/180/trunk/Plugins/YT_Interface.h
+END
+FFMpeg_Formats.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/189/trunk/Plugins/FFMpeg_Formats.h
+END

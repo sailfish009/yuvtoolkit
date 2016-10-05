@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/197/trunk/YUVToolkit
+END
+SourceThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/173/trunk/YUVToolkit/SourceThread.h
+END
+VideoViewList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/197/trunk/YUVToolkit/VideoViewList.cpp
+END
+MeasureWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/153/trunk/YUVToolkit/MeasureWindow.h
+END
+Options.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/153/trunk/YUVToolkit/Options.h
+END
+NameInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/190/trunk/YUVToolkit/NameInput.cpp
+END
+VideoView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/173/trunk/YUVToolkit/VideoView.cpp
+END
+YT_InterfaceImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/174/trunk/YUVToolkit/YT_InterfaceImpl.h
+END
+RenderThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/134/trunk/YUVToolkit/RenderThread.cpp
+END
+ScoreWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/196/trunk/YUVToolkit/ScoreWindow.h
+END
+ProcessThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/186/trunk/YUVToolkit/ProcessThread.h
+END
+MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/197/trunk/YUVToolkit/MainWindow.cpp
+END
+Layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/159/trunk/YUVToolkit/Layout.cpp
+END
+RendererWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/197/trunk/YUVToolkit/RendererWidget.h
+END
+ColorMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/153/trunk/YUVToolkit/ColorMap.h
+END
+YTApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/138/trunk/YUVToolkit/YTApplication.h
+END
+Options.ui
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/184/trunk/YUVToolkit/Options.ui
+END
+SourceThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/173/trunk/YUVToolkit/SourceThread.cpp
+END
+ColorConversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/117/trunk/YUVToolkit/ColorConversion.h
+END
+MeasureWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/153/trunk/YUVToolkit/MeasureWindow.cpp
+END
+TextFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/164/trunk/YUVToolkit/TextFile.h
+END
+Options.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/184/trunk/YUVToolkit/Options.cpp
+END
+NameInput.ui
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/190/trunk/YUVToolkit/NameInput.ui
+END
+YUVToolkit.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/127/trunk/YUVToolkit/YUVToolkit.qrc
+END
+ScoreWindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/190/trunk/YUVToolkit/ScoreWindow.ui
+END
+YT_InterfaceImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/180/trunk/YUVToolkit/YT_InterfaceImpl.cpp
+END
+YUVToolkit.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/195/trunk/YUVToolkit/YUVToolkit.vcxproj
+END
+VideoViewList.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/197/trunk/YUVToolkit/VideoViewList.h
+END
+ScoreWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/196/trunk/YUVToolkit/ScoreWindow.cpp
+END
+YUVToolkit.icns
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/YUVToolkit/YUVToolkit.icns
+END
+BuildControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/195/trunk/YUVToolkit/BuildControl.h
+END
+NameInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/190/trunk/YUVToolkit/NameInput.h
+END
+Settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/184/trunk/YUVToolkit/Settings.h
+END
+ProcessThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/186/trunk/YUVToolkit/ProcessThread.cpp
+END
+VideoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/173/trunk/YUVToolkit/VideoView.h
+END
+YUVToolkit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/158/trunk/YUVToolkit/YUVToolkit.pro
+END
+MainWindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/164/trunk/YUVToolkit/MainWindow.ui
+END
+YUVToolkit.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/195/trunk/YUVToolkit/YUVToolkit.vcxproj.filters
+END
+RendererWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/197/trunk/YUVToolkit/RendererWidget.cpp
+END
+YUVToolkit.rc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/158/trunk/YUVToolkit/YUVToolkit.rc
+END
+RenderThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/107/trunk/YUVToolkit/RenderThread.h
+END
+ColorMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/153/trunk/YUVToolkit/ColorMap.cpp
+END
+YTApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/139/trunk/YUVToolkit/YTApplication.cpp
+END
+MainWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/197/trunk/YUVToolkit/MainWindow.h
+END
+YUVToolkit.ico
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/YUVToolkit/YUVToolkit.ico
+END
+Layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/76/trunk/YUVToolkit/Layout.h
+END
+ColorConversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/180/trunk/YUVToolkit/ColorConversion.cpp
+END
+TextFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/164/trunk/YUVToolkit/TextFile.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/138/trunk/YUVToolkit/main.cpp
+END

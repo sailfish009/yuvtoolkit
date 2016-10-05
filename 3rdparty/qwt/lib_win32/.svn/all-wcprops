@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/88/trunk/3rdparty/qwt/lib_win32
+END
+qwtmathmld.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/3rdparty/qwt/lib_win32/qwtmathmld.lib
+END
+qwtmathml.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/trunk/3rdparty/qwt/lib_win32/qwtmathml.dll
+END
+qwtd.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/88/trunk/3rdparty/qwt/lib_win32/qwtd.dll
+END
+qwtmathmld.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/3rdparty/qwt/lib_win32/qwtmathmld.dll
+END
+qwt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/88/trunk/3rdparty/qwt/lib_win32/qwt.lib
+END
+qwtmathml.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/trunk/3rdparty/qwt/lib_win32/qwtmathml.lib
+END
+qwtd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/88/trunk/3rdparty/qwt/lib_win32/qwtd.lib
+END
+qwt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/88/trunk/3rdparty/qwt/lib_win32/qwt.dll
+END
